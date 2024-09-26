@@ -1,7 +1,5 @@
 Diabetes Prediction
 
-https://github.com/PRANJALIMALETHA/diabetesprediction
-
 1. A machine learning model to predict diabetes using a dataset containing relevant medical information.
 
 2. Deploy the model using Streamlit to create an accessible and userfriendly web application.
